@@ -1,14 +1,13 @@
 # Explaining the 5 types of database and how to choose between them
 
 Slides and notes for the talk "Explaining the 5 types of database and how to
-choose between them", a talk (to be) given at
+choose between them", a talk given at
 [EuroPython 2025](https://ep2025.europython.eu/)
 on [Friday 18th July
 2025](https://ep2025.europython.eu/session/explaining-the-5-types-of-database-and-how-to-choose-between-them)
 by [Tibs](https://aiven.io/Tibs).
 
-When the video recording is released, a link will be provided.
-
+You can watch the [video recording](https://www.youtube.com/watch?v=YZmyumwFWOg)
 
 ## Abstract
 
